@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/love-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/love-calculator/static/js/main.f47a4e1b.js",
+    "static/js/787.263160ed.chunk.js": "/love-calculator/static/js/787.263160ed.chunk.js",
+    "index.html": "/love-calculator/index.html",
+    "main.e6c13ad2.css.map": "/love-calculator/static/css/main.e6c13ad2.css.map",
+    "main.f47a4e1b.js.map": "/love-calculator/static/js/main.f47a4e1b.js.map",
+    "787.263160ed.chunk.js.map": "/love-calculator/static/js/787.263160ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f47a4e1b.js"
+  ]
+}
